@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val myWebView: WebView = findViewById(R.id.webview)
-        myWebView.loadUrl("https://www.google.com")
+        myWebView.loadUrl("https://buy.stripe.com/aEU3eOcYm3yR3Xq6op")
     }
 }
